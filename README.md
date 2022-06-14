@@ -1,7 +1,7 @@
 # Olá, eu sou Gabriel Di Domenico 👋
 - 🌱 Atualmente estou estudando backEnd
 - 👯 Procuro colaborar com projetos web ou desktop
-- ❤️ Eu amo técnologia
+- ❤️ Eu amo tecnologia
 - 🎮 Meu hobbie é jogar vídeo game
 ## Contato
 
