@@ -2,7 +2,7 @@
 - 🌱 Atualmente estou estudando backEnd
 - 👯 Procuro colaborar com projetos web ou desktop
 - ❤️ Eu amo técnologia
-- 🎮 E meu hobbie é jogar vídeo game
+- 🎮 Meu hobbie é jogar vídeo game
 ## Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-di-domenico-a5b2a421a/)
