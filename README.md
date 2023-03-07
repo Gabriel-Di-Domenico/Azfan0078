@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel Di Domenico 👋
-- 🌱 Atualmente estudo desenvolvimento backend e sou estagiário em desenvolvimento web fullstack 
+- 🌱 Atualmente estudo desenvolvimento backend e sou programador junior em desenvolvimento web fullstack 
 - 👯 Procuro adquirir conhecimento sobre arquitetura de software e código limpo
 - ❤️ Eu amo tecnologia e inovação
 - 🎮 Meu hobbie é jogar vídeo game
